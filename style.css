@@ -1,0 +1,36 @@
+.btn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+.score {
+  border: 0.1em solid rgb(3, 35, 77);
+  height: 3em;
+  width: 20em;
+  margin-bottom: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
+}
+.score-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.draw-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.draw {
+  border: 0.1em solid rgb(235, 53, 53);
+  height: 3em;
+  width: 20em;
+  margin-top: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
+}
