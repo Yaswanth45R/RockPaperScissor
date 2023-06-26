@@ -4,6 +4,12 @@
   align-items: center;
   gap: 50px;
 }
+.container{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .score {
   border: 0.1em solid rgb(3, 35, 77);
   height: 3em;

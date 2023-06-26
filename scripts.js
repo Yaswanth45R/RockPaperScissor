@@ -21,7 +21,7 @@ btns.forEach((btn) =>
       console.log("PLAYER has won this Round");
       draw.textContent = ``;
     } else if (result == "draw") {
-      draw.textContent = `It's a DRAW play again`;
+      draw.textContent = `It's a DRAW continue playing`;
       console.log("It's a DRAW play again");
     }
 
